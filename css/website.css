@@ -1,0 +1,46 @@
+.webaverse {
+    width: 300px;
+}
+.project-info {
+    width: 600px;
+}
+.freescape {
+    width: 300px;
+}
+.freescapeimage {
+    margin: 15px;
+    width: 300px;
+    height: 180px;
+}
+.herodaoimage {
+    margin:35px 15px;
+    width: 300px;
+    height: 150px;
+}
+.skipproject {
+    letter-spacing: 3px;
+}
+.photo {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+.heading{
+    font-weight: 500;
+}
+
+
+#about .heading {
+    text-align: center;
+    width: 220px;
+}
+
+li {
+    color: #74808a;
+    font-size: 0.9em;
+    margin: 0;
+}
+
+ul {
+    padding-left: 20px;
+}
